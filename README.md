@@ -5,6 +5,8 @@ _id: PUEDES UTILIZARLO O DESECHARLO, ES IRRELEVANTE
 
 name: NOMBRE DE LA INSTITUCION
 
-twitter: NOMBRE DE TWITTER DE LA INSTITUCION
+twitter: NOMBRE DE TWITTER DE LA INSTITUCION SI ES QUE TIENE
 
 geojson: PARA GEOPOSICIONAR EN MAPAS COMO LEAFLET
+
+*Existe un par de municipalidades que no fueron encontradas en el mapa, por ende se posicionaron en zonas aledañas y cercanas
